@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This is a test for smoke and snapshot on the card component this is to take a snapshot of the UI and make sure it renders correctly 1`] = `
+<div
+  className="Card"
+>
+  <h3 />
+  <p />
+</div>
+`;

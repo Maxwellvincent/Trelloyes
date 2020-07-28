@@ -4,7 +4,7 @@ import './List.css'
 
  class List extends React.Component {
     render(props){
-        console.log(this.props);
+        // console.log(this.props);
         // let cards = this.props.cards.map((item,index) => <Card key={index} title={item} />);
         return(
             <section className="List">
